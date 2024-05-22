@@ -38,10 +38,10 @@ Subscribing to newsletters is a great way to stay updated with the latest trends
 
 ## Recommended RSS Reader Clients
 RSS reader clients make it easy for you to follow your favorite blogs, sites, and feeds for free. Here are some recommended readers:
-- [Net News Wire](https://netnewswire.com/)
-- [Feedly](https://feedly.com/)
-- [NewsBlur](https://www.newsblur.com/)
-- [Inoreader](https://www.inoreader.com/)
+- [Net News Wire](https://netnewswire.com/): Great all-around RSS feed reader 
+- [Feedly](https://feedly.com/): Simple and free RSS feed reader
+- [NewsBlur](https://www.newsblur.com/): Good RSS reader for filtering your feeds 
+- [Inoreader](https://www.inoreader.com/): Great RSS reader with search and archiving
 
 
 ## Quiz Questions
