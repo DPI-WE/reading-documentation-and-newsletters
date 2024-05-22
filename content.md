@@ -34,6 +34,15 @@ Subscribing to newsletters is a great way to stay updated with the latest trends
 - [Frontend Focus](https://frontendfoc.us/): A newsletter focused on frontend development.
 - [Database Weekly](https://databaseweekly.com/): News and articles about databases and data management.
 - [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/): Insights and updates on software engineering and development practices.
+- [DPI Dev News](https://news.dpi.dev/): Read up on the latest news and projects from your fellow DPI trainees and alumni.
+
+## Recommended RSS Reader Clients
+RSS reader clients make it easy for you to follow your favorite blogs, sites, and feeds for free. Here are some recommended readers:
+- [Net News Wire](https://netnewswire.com/)
+- [Feedly](https://feedly.com/)
+- [NewsBlur](https://www.newsblur.com/)
+- [Inoreader](https://www.inoreader.com/)
+
 
 ## Quiz Questions
 - Why is it beneficial to read the Rails Guides?
